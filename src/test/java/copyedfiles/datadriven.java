@@ -28,6 +28,9 @@ System.out.println("dsdaf");
 	public void vgn(){
 		System.out.println("bye...."+c);
 	}
+	public void vgn1(){
+		System.out.println("bye...."+c);
+	}
 
 
 }
