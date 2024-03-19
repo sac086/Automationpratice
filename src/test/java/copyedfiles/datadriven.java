@@ -31,5 +31,8 @@ System.out.println("dsdaf");
 	public void vgm(){
 		System.out.println("hi..."+d);
 	}
+	public void vgm1(){
+		System.out.println("hi..."+e);
+	}
 
 }
