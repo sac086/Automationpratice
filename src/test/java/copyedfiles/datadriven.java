@@ -5,11 +5,11 @@ public class datadriven {
 	int b=11;
 	int c=12;
 	int d=13;
-	static int e=14;
+	
 	
 	public static void main(String[] args) {
 		try {
-			System.out.println("dddfgfshddf"+ e);
+			System.out.println("dddfgfshddf");
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -28,8 +28,6 @@ System.out.println("dsdaf");
 	public void vgn(){
 		System.out.println("bye...."+c);
 	}
-	public void vgm(){
-		System.out.println("hi..."+d);
-	}
+	
 
 }
